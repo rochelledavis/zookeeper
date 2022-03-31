@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Toby",
+      "species": "Dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
